@@ -1,4 +1,3 @@
-DHANUSH	
-  https://github.com/idhanx/pickOut
-DHANANJAYAAN	
+DHANUSH	- https://github.com/idhanx/pickOut
+DHANANJAYAAN - 	
   

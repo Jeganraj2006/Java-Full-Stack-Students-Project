@@ -1,3 +1,5 @@
+Project Name : Borrow Tracker
 
-my project
-https://github.com/Jeganraj2006/Java-Full-Stack-Students-Project
+ASITA THANGAVEL	-	https://github.com/Asita-Thangavel2005/Borrow-Tracker
+
+SAMYUKTA A	-	https://github.com/Samyukta-23/BorrowTracker

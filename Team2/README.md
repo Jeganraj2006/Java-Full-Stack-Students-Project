@@ -1,4 +1,4 @@
-DHANUSH	- https://github.com/idhanx/pickOut
+DHANUSH	- pickOut - https://github.com/idhanx/pickOut
 
-DHANANJAYAAN - 	
+DHANANJAYAAN - pickOut -	https://github.com/DJ-Dhananjayan/Pick_out
   
